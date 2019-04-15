@@ -1,5 +1,5 @@
-vertice,adjacente,peso
-X,A-B-C,40-37-100
-A,B,39-68
-B,X,55
-C,
+vertice,adjacente,peso,color
+X,A-B-C,40-37-100,green
+A,B,39-68,green
+B,X,55,blue
+C,,,blue
