@@ -1,5 +1,5 @@
 vertice,adjacente,peso
-X,A-B-C,1-2-3
-A,B,4-1
-B,X,5
+X,A-B-C,40-37-100
+A,B,39-68
+B,X,55
 C,
