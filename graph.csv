@@ -1,5 +1,8 @@
 vertice,adjacente,peso,color
-X,A-B-C,40-37-100,green
-A,B,39-68,green
-B,X,55,blue
-C,,,blue
+Elthon,Computação-Administração-Medicina,100-37-40,green
+Patrick,Computação-Administração,60-10,green
+Zezinha,Medicina,40,green
+Computação,,,red
+Administração,Elthon,55,red
+Medicina,,,red
+Arquitetura,,,red
