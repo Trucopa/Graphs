@@ -1,8 +1,8 @@
 vertice,adjacente,peso,color
-Elthon,Computação-Administração-Medicina,100-37-40,green
-Patrick,Computação-Administração,60-10,green
-Zezinha,Medicina,40,green
-Computação,,,red
-Administração,Elthon,55,red
-Medicina,,,red
-Arquitetura,,,red
+Elthon,Computação-Administração-Medicina,100-37-40,#00FF11
+Patrick,Computação-Administração,60-10,#00FF11
+Zezinha,Medicina,40,#00FF11
+Computação,Elthon-Patrick,100-60,#00CCFF
+Administração,Elthon-Patrick,37-10,#00CCFF
+Medicina,Zezinha,40,#00CCFF
+Arquitetura,,,#00CCFF
