@@ -1,0 +1,21 @@
+vertice,adjacente,peso,color
+A. Barbosa,Computação,260,#00FF11
+A. Paes,Computação-Zootecnia,220-60,#00FF11
+Elthon,Computação-Adm Pública,120-80,#00FF11
+Mário,Computação-Tronco Ini,80-120,#00FF11
+Patrick,Computação,220,#00FF11
+Raquel,Computação,0,#00FF11
+R. Afonso,Computação-Matemática-Física-Agronomia,60-60-60-60,#00FF11
+Rodolfo,Computação-Tronco Ini,180-80,#00FF11
+Rômulo,Computação-Tronco Ini,60-160,#00FF11
+Tácito,Computação,220,#00FF11
+Tércio,Computação-Biologia,140-60,#00FF11
+Thiago,Computação,200,#00FF11
+Computação,,,#00CCFF
+Adm Pública,,,#00CCFF
+Matemática,,,#00CCFF
+Biologia,,,#00CCFF
+Física,,,#00CCFF
+Zootecnia,,,#00CCFF
+Agronomia,,,#00CCFF
+Tronco Ini,,,#00CCFF
